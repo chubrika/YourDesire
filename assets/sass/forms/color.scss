@@ -1,0 +1,49 @@
+._css_color {
+  &--red {
+    color:$base-color-red;
+  }
+
+  &--green {
+    color: $base-color-green;
+  }
+
+  &--lite-green {
+    color: $base-color-litegreen;
+  }
+
+  &--blue {
+    color: $base-color-blue;
+  }
+
+  &--white {
+    color: $base-color-white;
+  }
+
+  &--gray {
+    color: $base-color-gray;
+  }
+
+  &--blue-gray {
+    color: $base-color-bluegray;
+  }
+
+  &--yellow {
+    color: $base-color-yellow;
+  }
+
+  &--orange {
+    color: $base-color-orange;
+  }
+
+  &--liteblack {
+    color: $base-color-liteblack;
+  }
+
+  &-bg {
+    &--details {
+      background-color: $base-color-white;
+    }
+
+    background-color: $base-color-white;
+  }
+}

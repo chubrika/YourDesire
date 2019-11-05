@@ -1,0 +1,16 @@
+
+body,
+html {
+  font-family: "BPG Arial Caps", sans-serif !important;
+  overflow-x: hidden;
+}
+
+._css_font {
+  &-upp {
+    font-family: "c4c-mtavr", sans-serif;
+  }
+
+  &-low {
+    font-family: "c4c-nusx", sans-serif;
+  }
+}

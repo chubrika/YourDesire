@@ -1,0 +1,19 @@
+._css_size{
+    &-vw{
+        &--full{
+            width:100vw; 
+        }
+    }
+    &-w{
+        &--full{
+            width:100%; 
+        }
+    }
+    &-h{
+        &-max{
+            &--200{
+                max-height: 200px
+            }
+        }
+    }
+}
